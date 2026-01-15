@@ -3,8 +3,6 @@
 **`Desenvolvedor FullStack`**
 
 Meu nome é Alírio, tenho 23 anos e sou um estudante de Análise e Desenvolvimento de Sistemas na UNIFACISA, apaixonado por tecnologia e resolução de problemas. Gosto de explorar novas ideias e desafios, buscando sempre aprender e aprimorar minhas habilidades. Meu entusiasmo por programação e desenvolvimento me motiva a continuar aprimorando meu conhecimento e encontrar soluções eficientes e criativas para diferentes cenários.
- 
-Mesmo com uma boa base sobre os assuntos atuais, continuo reforçando com materiais externos, não dependendo totalmente apenas do material entregue pela instituição de ensino, sempre com um olhar voltado para inovação e melhoria contínua. 
 
 <p align="left">
     <a href="https://github.com/neth-o?tab=followers">
